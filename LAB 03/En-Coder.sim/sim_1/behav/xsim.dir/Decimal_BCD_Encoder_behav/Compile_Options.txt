@@ -1,0 +1,1 @@
+-wto "d773041e9fc144b1a8755db262de0912" --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "Decimal_BCD_Encoder_behav" "xil_defaultlib.Decimal_BCD_Encoder" "xil_defaultlib.glbl" -log "elaborate.log" 

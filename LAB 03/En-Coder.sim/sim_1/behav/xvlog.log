@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Saeed/En-Coder/En-Coder.srcs/sources_1/new/Decimal_BCD_Encoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Decimal_BCD_Encoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Saeed/En-Coder/En-Coder.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

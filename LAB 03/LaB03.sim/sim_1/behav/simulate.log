@@ -1,0 +1,10 @@
+Vivado Simulator 2016.2
+Time resolution is 1 ps
+                   0ns -- switch = 00, Data = xxx0, Out = 0
+                  10ns -- switch = 00, Data = xxx1, Out = 1
+                  20ns -- switch = 01, Data = xx0x, Out = 0
+                  30ns -- switch = 01, Data = xx1x, Out = 1
+                  40ns -- switch = 10, Data = x0xx, Out = 0
+                  50ns -- switch = 10, Data = x1xx, Out = 1
+                  60ns -- switch = 11, Data = 0xxx, Out = 0
+                  70ns -- switch = 11, Data = 1xxx, Out = 1
