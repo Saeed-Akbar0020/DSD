@@ -27,6 +27,6 @@ always @(posedge clk_50m) begin
 		tx_acc <= 0;
 	else
 		tx_acc <= tx_acc + 9'b1;
-end
+end 
 
 endmodule
