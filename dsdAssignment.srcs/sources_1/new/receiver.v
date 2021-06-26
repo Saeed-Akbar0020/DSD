@@ -72,6 +72,6 @@ always @(posedge clk_50m) begin
 		end
 		endcase
 	end
-end
+end 
 
 endmodule
