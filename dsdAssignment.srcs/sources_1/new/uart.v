@@ -1,5 +1,5 @@
 `timescale 1ns / 1ps
-//Author: Sagheer Abbas Shah 041-18-0016
+// Saeed Akbar Khan 041-18-0020 
 
 module uart(input wire [7:0] din,
 	    input wire wr_en,
