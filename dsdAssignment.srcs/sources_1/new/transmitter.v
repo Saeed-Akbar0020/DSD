@@ -15,7 +15,7 @@ parameter STATE_IDLE	= 2'b00;
 parameter STATE_START	= 2'b01;
 parameter STATE_DATA	= 2'b10;
 parameter STATE_STOP	= 2'b11;
-
+ 
 reg [7:0] data = 8'h00;
 reg [2:0] bitpos = 3'h0;
 reg [1:0] state = STATE_IDLE;
